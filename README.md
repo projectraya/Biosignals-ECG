@@ -6,7 +6,10 @@ A real-time biomedical signal acquisition system built using the **AD8232** sing
 
 ## Media & Demonstration
 
-You can watch the two video recordings, and see the hardware setup in the `media/` directory.
+You can see the hardware setup in the `media/` directory.
+Video recordings showcasing the project are available via the links below:
+* **[Full Demonstration](https://youtu.be/ISh5YH9MtOI)**
+* **[Screen Recording of the Serial Plotter in ArduinoIDE](https://youtu.be/kbyaub42k5g)**
 
 ---
 
